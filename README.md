@@ -1,4 +1,11 @@
 <h1 align="center">Oi Tudo bem? Eu sou o Antonio Machado 😃️</h1>
+
+
+- 💻 Estudante de Engenharia da Computação
+- 💼 Atualmente trabalhando como analista de suporte
+- 👩‍💻 Sempre aprendendo algo novo
+
+
 <div align="center">
   <a href="https://github.com/Antonio21machado">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Antonio21machado&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)">
